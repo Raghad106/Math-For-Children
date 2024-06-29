@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Practice Math</string>
+    <string name="calculator">Calculator</string>
+    <string name="history">History</string>
+    <string name="stats">Stats</string>
+    <string name="enter_expression_hint">Enter Expression Hint</string>
+    <string name="expression">Expression</string>
+    <string name="result">Result</string>
+    <string name="addBt">Add</string>
+    <string name="subtractBt">Subtract</string>
+    <string name="multiplyBt">Multiply</string>
+    <string name="divideBt">Divide</string>
+    <string name="calculateBt">Calculate</string>
+    <string name="enter_expected_result">Expected Result</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="user_answer_tv">User Answer:</string>
+    <string name="clear_all_tv">Clear All</string>
+</resources>

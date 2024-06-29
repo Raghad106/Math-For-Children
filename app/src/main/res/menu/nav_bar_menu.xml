@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/calculator"
+        android:title="@string/calculator"
+        app:showAsAction="withText"
+        android:icon="@drawable/calculate_icon_24"
+        >
+    </item>
+
+    <item
+        android:id="@+id/stats"
+        android:title="@string/stats"
+        app:showAsAction="withText"
+        android:icon="@drawable/chart_icon_24"
+        >
+    </item>
+
+    <item
+        android:id="@+id/history"
+        android:title="@string/history"
+        app:showAsAction="withText"
+        android:icon="@drawable/history_icon_24"
+        >
+    </item>
+
+</menu>

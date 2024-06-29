@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "584124471669",
+    "project_id": "practice-math-app",
+    "storage_bucket": "practice-math-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:584124471669:android:610b04a0ab9afe62255b3c",
+        "android_client_info": {
+          "package_name": "com.example.practicemath"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCS4Tl0nkiSyy8Sr4joBV2jxNLbAtw1XIc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
