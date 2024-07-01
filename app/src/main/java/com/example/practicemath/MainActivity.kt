@@ -27,8 +27,6 @@ class MainActivity : AppCompatActivity() ,OnFragmentClickListener
         binding = ActivityMainBinding.inflate(layoutInflater)
         setContentView(binding.root)
 
-
-//
         supportFragmentManager.beginTransaction().
         add(R.id .fragmentContainer,CalculatorFragment()).commit()
 
